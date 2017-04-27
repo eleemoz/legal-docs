@@ -1,7 +1,7 @@
 # Websites, Communications & Cookies Privacy Notice
 
-March 14, 2016
-{: datetime="2016-03-14" }
+April 11, 2017
+{: datetime="2017-04-11" }
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -35,10 +35,13 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * IP addresses are used to customize communications by language and country.  
     * Device information such as country, language, operator and OEM, may be used to customize your experience on Firefox Marketplace and Webmaker.
 
-* **Metrics**: Clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+* **Metrics**: We may also use cookies, device information and IP addresses, along with clear GIFs, cookies and third party services help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites.      This helps us to improve site content.  
     * Optimizely and ShareProgress, which place a cookie on your device, to help us test variations of web content.  This helps us offer     better web experiences to users.
-    * Flashtalking, which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
+    * DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page.  This helps us measure the effectiveness of our     advertising campaigns.
+    * Yahoo Dot Pixel, which uses JavaScript on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns. 
+    * HTTP Referral Data, which may be included with Firefox’s installer, to understand the website domain or advertising campaign that referred you to our download page. This information helps us understand the effectiveness of our advertising campaigns and improve them.
+    * Other metrics tools from time to time, on an experimental basis. For example, we may do this to help evaluate a new metrics tool, or test existing metrics collection.
 
 ---------------------------------------
 
@@ -48,12 +51,15 @@ You can control individual cookie preferences, indicate your cookie preferences 
 * **Cookie History**: You can accept or decline individual cookies in your Firefox preferences in the Tools/Options/Privacy history section. Note that certain features of our products and services may not function properly without the aid of cookies.
 {: #cookies }
 
-* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising.  You can enable Do Not Track in Firefox in the Tools/Options/Privacy section on Tracking. This lets you indicate a preference to third party websites about the way your information is collected and used online.
+* **Do Not Track**: Mozilla does not track users across third party websites to provide targeted advertising. If you have configured your browser to send a “Do Not Track” signal when accessing our websites, Mozilla will not utilize any of the tools described in the [Metrics](#data-tools) section.
 
 * **Email**: Our marketing communications are optional to receive and you can unsubscribe from the footer of the email or by updating your [Mozilla email preferences](https://www.mozilla.org/newsletter/recovery/). You can disable the functionality of clear GIFs by viewing emails from us in “text only” format.
 
-* **Analytics & Optimization**: If you do not want data about your visits to Mozilla websites to be collected by Google Analytics, you can install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on keeps your visits anonymous and prohibits data transmission to Google Analytics.
-If you do not want data about your visits to Mozilla websites to be collected by Optimizely, you can [opt-out on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) or visit [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information. If you do not want data about your visits to Mozilla websites to be collected by ShareProgress, you can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). Some Mozilla.org pages also use clear GIFs to understand the effectiveness of our advertising campaigns.  You can opt-out by going to the “Your Choices” section of [Flashtalking’s Privacy Policy](http://www.flashtalking.com/us/privacypolicy) and selecting “Click here to opt-out”.
+* **Analytics & Optimization**: Follow the instructions below to prevent data collection about your visits to Mozilla websites:
+    *  Google: Install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout), which keeps your visits anonymous and prohibits data transmission to Google Analytics. Some Mozilla.org pages use clear GIFs which communicate with DoubleClick to understand the effectiveness of our advertising campaigns; you can control personalized ads from DoubleClick in Google's ad settings (you will be prompted to sign-into your Google Account).
+    *  Optimizely: [Opt-out on www.mozilla.org](https://www.mozilla.org/?optimizely_opt_out=true) or visit [Optimizely's opt-out website](https://www.optimizely.com/opt_out) for more information.
+    *  Yahoo: visit the [Ad Interest Manager](https://aim.yahoo.com/aim/us/en/optout/) to opt-out.
+    *  ShareProgress: You can [turn on Do Not Track in your browser](https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature). 
 
 * **Social Media**: The social sharing buttons on Mozilla websites are designed not to share data with the social media provider until you specifically click the button.
 
@@ -62,4 +68,4 @@ If you do not want data about your visits to Mozilla websites to be collected by
 Some Mozilla websites allow you to make purchases (such as apps or gear) or make a donation. These transactions are processed by third parties, and not Mozilla. 
 {: #donations }
 
-* **Payment Processing**:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.  For more information on our data practices with third party vendors, see our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/).
+* **Payment Processing**:   Mozilla does not receive any financial information, which is transmitted from you to our third party vendors for processing. The name of the third party will be displayed at the time of the transaction.
