@@ -46,7 +46,8 @@ Firefox displays content, such as “Snippets” (messages from Mozilla) and Top
 
   Opting out increases the risk of your private information being intercepted. [Learn more](https://support.mozilla.org/kb/advanced-settings-browsing-network-updates-encryption#w_certificates-tab).
 
-### Crash reports: By default on desktop versions of Firefox, we will ask you to share a report with more detailed information about crashes with Mozilla, but you always have the choice to decline.
+### Crash reports+
+By default on desktop versions of Firefox, we will ask you to share a report with more detailed information about crashes with Mozilla, but you always have the choice to decline.
 
 * __Sensitive data__:  Crash reports include a ‘dump file’ of Firefox’s memory contents at the time of the crash, which may contain data that identifies you or is otherwise sensitive to you.
 
